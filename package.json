@@ -1,0 +1,31 @@
+{
+  "name": "Oxodes-react",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "build-watch": "next build --watch",
+    "build-start": "npm run build && npm start"
+  },
+  "dependencies": {
+    "@next/font": "13.1.2",
+    "aos": "^2.3.4",
+    "file-loader": "^6.2.0",
+    "isotope-layout": "^3.0.6",
+    "next": "13.1.2",
+    "react": "18.2.0",
+    "react-bootstrap": "^1.6.1",
+    "react-circular-progressbar": "^2.1.0",
+    "react-countup": "^6.4.0",
+    "react-dom": "18.2.0",
+    "react-owl-carousel": "^2.3.3",
+    "react-slick": "^0.30.1",
+    "react-visibility-sensor": "^5.1.1",
+    "slick-carousel": "^1.8.1",
+    "typewriter-effect": "^2.21.0",
+    "wowjs": "^1.1.3"
+  }
+}
